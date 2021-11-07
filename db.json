@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "Mi58EBCq",
+      "name": "macbook pro 2021",
+      "catagory": "computer",
+      "price": "15000"
+    },
+    {
+      "id": "qjaUkHi7",
+      "name": "macbook pro 2021",
+      "catagory": "computer",
+      "price": "20000"
+    },
+    {
+      "id": "6IBxEo9P",
+      "name": "Iphone 13",
+      "catagory": "Mobile",
+      "price": 50000
+    },
+    {
+      "id": "TT8oUBK-",
+      "name": "macbook",
+      "catagory": "pc",
+      "price": "2000"
+    },
+    {
+      "id": "Nxb_-dXe",
+      "name": "tele2",
+      "catagory": "mobile",
+      "price": "5000"
+    },
+    {
+      "id": "sRZ76mf4",
+      "name": "macbooc pro",
+      "catagory": "pc",
+      "price": 15000
+    }
+  ]
+}
