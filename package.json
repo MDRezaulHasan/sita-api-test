@@ -15,7 +15,7 @@
     "lowdb": "^1.0.0",
     "morgan": "^1.10.0",
     "nanoid": "^3.1.30",
-    "nodemon": "^2.0.14",
+    "nodemon": "^2.0.20",
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.1.6"
   }
